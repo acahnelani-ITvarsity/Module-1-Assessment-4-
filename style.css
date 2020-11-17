@@ -1,0 +1,39 @@
+table{
+	
+    font-family: Helvetica,sans-serif;
+    border-collapse: collapse;
+    border-width: 5px;
+    border-style: double;
+    border-color: black;
+    background-color: lightGray;
+    margin-left:300px ;
+    width: 900px;
+    }
+th{
+    font-weight: 900;
+    background-color: SlateGray;
+    color: #FFFFFF;
+}
+td{
+    font-size: 17px;
+    color: black;
+}
+td:hover{
+    font-size: 30px;
+    color: papayawhip;
+}
+tr:hover{
+    color: aquamarine;
+}
+h2{
+    font-family:Impact,fantasy;
+    text-align: center;
+    font-size: 35px;
+    color: gray;
+    font-style: elephant;
+    background-color: whiteSmoke;
+      
+}
+body {
+ background-color: #F5F5F5;
+}
